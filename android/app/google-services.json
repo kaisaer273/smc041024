@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1086037628788",
+    "project_id": "smc041024",
+    "storage_bucket": "smc041024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086037628788:android:59f9723bb6486934137e21",
+        "android_client_info": {
+          "package_name": "com.kaisaer.smc041024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTD096rivXkty9JMUwZEYBApDjvNgHkSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
