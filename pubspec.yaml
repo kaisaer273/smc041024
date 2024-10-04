@@ -4,14 +4,14 @@ description: A new Flutter project.
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: ">=2.17.0 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
 
   cupertino_icons:
-  get:
+  get: ^5.0.0-release-candidate-9.2.1
   get_storage:
   flutter_lints:
   freezed_annotation:
